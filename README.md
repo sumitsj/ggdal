@@ -1,4 +1,4 @@
-# Generic Go Data Access Layer
+# Go Generic Data Access Layer
 
 This is generic repository, which can be used in any project instead of writing separate repository for each model.
 
